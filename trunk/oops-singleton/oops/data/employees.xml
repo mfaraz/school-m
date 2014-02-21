@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+
+<employee>
+<id>101</id>
+<title>Ram Kumar.M</title>
+<desc>Sr.Manager</desc>
+<image>http://www.digitaltrends.com/wp-content/uploads/2010/02/digital-camera-buying-guide-header.jpg</image>
+</employee>
+
+<employee>
+<id>102</id>
+<title>Raju</title>
+<desc>Sr.Analyst</desc>
+</employee>
+
+
+
+</employees>
