@@ -90,7 +90,7 @@ function Button(){
 	this.setClass = function(k){
 		title.classList.add(k);
 	}
-	
+	 
 	this.normal = function(){
 		container.addEventListener("mouseover",onOver);
 		container.addEventListener("mouseout",onOut);
